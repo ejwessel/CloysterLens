@@ -3,7 +3,7 @@
     "document_id": "uBWZaEyAN71yEORIS5ah",
     "original_document_id": "uBWZaEyAN71yEORIS5ah",
     "version": "27",
-    "lastChanged": "1617306823330",
+    "lastChanged": "1617309409258",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -30,6 +30,9 @@
         "ResourceUiComponent": {
             "collapsedList": [
                 [
+                    [
+                        "677583"
+                    ],
                     [
                         "Cloyster_Outline__scanline",
                         "Animations"
@@ -413,6 +416,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1617308910047622:703395",
+                    "name": "Files\/File92.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -429,7 +440,36 @@
                     "uidsToFeatureNamesWithIntensity": ""
                 },
                 "ScreenTransform": {
-                    "uidData": "",
+                    "uidData": [
+                        {
+                            "k": "1617308871016341:696835",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1617308871063517:696977",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
                     "generalData": ""
                 }
             }
@@ -453,12 +493,15 @@
                 "14": "1617303570519894:39544",
                 "15": "1617303570526616:39561",
                 "16": "1617303570532501:39582",
-                "17": "1617303993173930:95532"
+                "17": "1617303993173930:95532",
+                "18": "1617308870967886:696771",
+                "19": "1617308871014146:696833",
+                "20": "1617308871063158:696976"
             }
         },
         "LayerComponent": {
             "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "0",
@@ -723,6 +766,22 @@
                 {
                     "k": "91",
                     "v": "Files\/File91.pvr"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.pvr"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.png"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.png"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.pvr"
                 }
             ]
         },
@@ -794,6 +853,10 @@
                     {
                         "k": "985",
                         "v": "Final_Pokemon_Specular.png"
+                    },
+                    {
+                        "k": "986",
+                        "v": "677583.png"
                     }
                 ],
                 "hashes": [
@@ -868,14 +931,18 @@
                     {
                         "k": "985",
                         "v": "e9c3dd3f939bf94e2038c1f4a0e0f103"
+                    },
+                    {
+                        "k": "986",
+                        "v": "7613c6b3e414b2a75a9335fe98e9d693"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2021-04-01T12:50:58",
+                        "lastModified": "2021-04-01T13:28:30",
                         "name": "Public",
-                        "hash": "87f27beb86da4974749843299471aa34",
+                        "hash": "aebaa9e67ebfee369a965fd2664b469e",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -912,6 +979,13 @@
                                         "children": ""
                                     }
                                 ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-04-01T13:27:40",
+                                "name": "677583.png",
+                                "hash": "7613c6b3e414b2a75a9335fe98e9d693",
+                                "children": ""
                             },
                             {
                                 "isFolder": "false",
@@ -1431,6 +1505,19 @@
                         "publicId": "985",
                         "source": "\/Users\/ejwessel\/Desktop\/Textures_Cloyster_Pokemon\/Final_Pokemon_Specular.png",
                         "additional": ""
+                    },
+                    {
+                        "name": "677583",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "47",
+                        "dependency": "0",
+                        "uid": "1617308910047622:703395",
+                        "fileId": "92",
+                        "originalId": "93",
+                        "publicId": "986",
+                        "source": "\/Users\/ejwessel\/Desktop\/677583.png",
+                        "additional": ""
                     }
                 ]
             }
@@ -1438,7 +1525,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1617303298738975:3944"
+                    "1517446348228144:84822"
                 ]
             }
         },
@@ -1871,6 +1958,33 @@
                                     "settings_hash": "2049"
                                 },
                                 "v": "91"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1617308910047622:703395",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1995804",
+                            "compressedSize": "430957",
+                            "originalRAM": "8294400",
+                            "compressedRAM": "1036800",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "94",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "7613c6b3e414b2a75a9335fe98e9d693",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "95"
                             }
                         ]
                     }
