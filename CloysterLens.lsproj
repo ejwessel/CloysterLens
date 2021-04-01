@@ -1,0 +1,1884 @@
+{
+    "lens_id": "",
+    "document_id": "uBWZaEyAN71yEORIS5ah",
+    "original_document_id": "uBWZaEyAN71yEORIS5ah",
+    "version": "27",
+    "lastChanged": "1617306823330",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "4",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "4",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Animations"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Cloyster_Outline__scanline"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Materials",
+                        "Cloyster_Outline_Outline"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Materials",
+                        "Cloyster_Outline_Pokemon"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Meshes"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Meshes",
+                        "Cloyster_Outline_001"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Meshes",
+                        "Cloyster_Outline_002"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Meshes",
+                        "Cloyster_Outline_003"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Meshes",
+                        "Cloyster_Outline_004"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Meshes",
+                        "Cloyster_Outline_005"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Meshes",
+                        "Cloyster_Outline_006"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Meshes",
+                        "Cloyster_Outline_007"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Meshes",
+                        "Cloyster_Outline_008"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Meshes",
+                        "Cloyster_Outline_009"
+                    ],
+                    [
+                        "Cloyster_Outline__scanline",
+                        "Meshes",
+                        "Cloyster_Outline_010"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Final_Pokemon_Ambient_Occlusion"
+                    ],
+                    [
+                        "Final_Pokemon_Diffuse"
+                    ],
+                    [
+                        "Final_Pokemon_Emissive"
+                    ],
+                    [
+                        "Final_Pokemon_Glossiness"
+                    ],
+                    [
+                        "Final_Pokemon_Normal"
+                    ],
+                    [
+                        "Final_Pokemon_Specular"
+                    ],
+                    [
+                        "Skin"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "white"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1617303298738975:3944",
+                    "1617306783744526:440573"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1617303569325225:38765",
+                    "name": "Files\/File35.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1617303569374008:38787",
+                    "name": "Files\/File37.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1617303569434254:38805",
+                    "name": "Files\/File39.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1617303569485382:38827",
+                    "name": "Files\/File41.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1617303569526546:38845",
+                    "name": "Files\/File43.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1617303569590906:38867",
+                    "name": "Files\/File45.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1617303569645891:38889",
+                    "name": "Files\/File47.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1617303569687004:38907",
+                    "name": "Files\/File49.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1617303569726063:38925",
+                    "name": "Files\/File51.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1617303569776403:38947",
+                    "name": "Files\/File53.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1617303569804085:38961",
+                    "name": "Files\/File55",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1617303569878682:38980",
+                    "name": "Files\/File57",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1617303570016011:39153",
+                    "name": "Cloyster_Outline__scanline",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1617304248414039:128313",
+                    "name": "Files\/File62",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1617304248485592:128359",
+                    "name": "Files\/File64.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1617304248517454:128375",
+                    "name": "Files\/File66.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1617304272291618:131507",
+                    "name": "Files\/File68.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1617304276513909:131984",
+                    "name": "Files\/File71.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1617304283346057:133013",
+                    "name": "Files\/File74.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1617304288296751:133835",
+                    "name": "Files\/File77.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1617304294375368:134818",
+                    "name": "Files\/File80.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1617304304810162:136326",
+                    "name": "Files\/File83.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1617303298734988:3943",
+                "4": "1617303298738975:3944",
+                "5": "1617303298921239:3976",
+                "6": "1617303570480155:39323",
+                "7": "1617303570481173:39349",
+                "8": "1617303570483683:39366",
+                "9": "1617303570493558:39455",
+                "10": "1617303570499806:39476",
+                "11": "1617303570505407:39493",
+                "12": "1617303570508779:39510",
+                "13": "1617303570512842:39527",
+                "14": "1617303570519894:39544",
+                "15": "1617303570526616:39561",
+                "16": "1617303570532501:39582",
+                "17": "1617303993173930:95532"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.mesh"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.mesh"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.mesh"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.mesh"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.mesh"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.mesh"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.mesh"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.mesh"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.mesh"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.mesh"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.mesh"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.mesh"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.mesh"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.mesh"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.mesh"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.mesh"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.mesh"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.mesh"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.mesh"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.mesh"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.lsmat"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.lsmat"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.oprfb"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.obj"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.oprfb"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.lsmat"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.png"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.png"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.pvr"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.png"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.pvr"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.png"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.pvr"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.png"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.png"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.pvr"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.png"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.png"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.pvr"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.png"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.png"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.pvr"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.png"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.png"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.pvr"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.pvr"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.pvr"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.pvr"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.pvr"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.pvr"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "972",
+                        "v": "Cloyster_Outline__scanline.obj"
+                    },
+                    {
+                        "k": "973",
+                        "v": "..\/AdditionalFiles\/Cloyster_Outline__scanline\/Materials"
+                    },
+                    {
+                        "k": "974",
+                        "v": "..\/AdditionalFiles\/Cloyster_Outline__scanline\/Materials\/Cloyster_Outline_Pokemon.lsmat"
+                    },
+                    {
+                        "k": "975",
+                        "v": "..\/AdditionalFiles\/Cloyster_Outline__scanline\/Materials\/Cloyster_Outline_Outline.lsmat"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "977",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "978",
+                        "v": "Textures\/white.png"
+                    },
+                    {
+                        "k": "979",
+                        "v": "Skin.lsmat"
+                    },
+                    {
+                        "k": "980",
+                        "v": "Final_Pokemon_Ambient_Occlusion.png"
+                    },
+                    {
+                        "k": "981",
+                        "v": "Final_Pokemon_Diffuse.png"
+                    },
+                    {
+                        "k": "982",
+                        "v": "Final_Pokemon_Emissive.png"
+                    },
+                    {
+                        "k": "983",
+                        "v": "Final_Pokemon_Glossiness.png"
+                    },
+                    {
+                        "k": "984",
+                        "v": "Final_Pokemon_Normal.png"
+                    },
+                    {
+                        "k": "985",
+                        "v": "Final_Pokemon_Specular.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "492510b9211f84cabb02464658275569"
+                    },
+                    {
+                        "k": "970",
+                        "v": "549f0d1be9f964f0d2ac0349ef657875"
+                    },
+                    {
+                        "k": "971",
+                        "v": "99faa9efd4f849924f4b9ea18c4aa1c7"
+                    },
+                    {
+                        "k": "972",
+                        "v": "492510b9211f84cabb02464658275569"
+                    },
+                    {
+                        "k": "974",
+                        "v": "0219fa570e0d7848ec46be2aafd5d7d4"
+                    },
+                    {
+                        "k": "975",
+                        "v": "f4faf95890fc9c14c20ec7c8501366d8"
+                    },
+                    {
+                        "k": "977",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "978",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "979",
+                        "v": "ef2cf66bd178d251376e2184693b02ed"
+                    },
+                    {
+                        "k": "980",
+                        "v": "e7a5ad45a4176f1b97c5af2afb660cd3"
+                    },
+                    {
+                        "k": "981",
+                        "v": "d08c866e32f4defbf67b7d675a90001c"
+                    },
+                    {
+                        "k": "982",
+                        "v": "33ac1134c49b5f5fdedca29b38a40a28"
+                    },
+                    {
+                        "k": "983",
+                        "v": "ddfcf1190ad5963e7a510ae5f2c9a652"
+                    },
+                    {
+                        "k": "984",
+                        "v": "fb1450a28de7cbb0c72e118cfe809161"
+                    },
+                    {
+                        "k": "985",
+                        "v": "e9c3dd3f939bf94e2038c1f4a0e0f103"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-04-01T12:50:58",
+                        "name": "Public",
+                        "hash": "87f27beb86da4974749843299471aa34",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-04-01T12:50:58",
+                                "name": "Skin.lsmat",
+                                "hash": "ef2cf66bd178d251376e2184693b02ed",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-04-01T12:10:48",
+                                "name": "Textures",
+                                "hash": "360d3ab32f92eb6f1b1f20535fce7fb6",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-04-01T12:10:48",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-04-01T12:10:48",
+                                        "name": "white.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-04-01T12:10:48",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2016-11-23T21:43:32",
+                                "name": "Final_Pokemon_Glossiness.png",
+                                "hash": "ddfcf1190ad5963e7a510ae5f2c9a652",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2016-11-23T21:43:40",
+                                "name": "Final_Pokemon_Ambient_Occlusion.png",
+                                "hash": "e7a5ad45a4176f1b97c5af2afb660cd3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2016-11-23T21:43:30",
+                                "name": "Final_Pokemon_Specular.png",
+                                "hash": "e9c3dd3f939bf94e2038c1f4a0e0f103",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2016-11-23T21:43:22",
+                                "name": "Final_Pokemon_Diffuse.png",
+                                "hash": "d08c866e32f4defbf67b7d675a90001c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-03-25T04:12:36",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2016-11-23T21:43:46",
+                                "name": "Final_Pokemon_Emissive.png",
+                                "hash": "33ac1134c49b5f5fdedca29b38a40a28",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2016-11-23T21:43:36",
+                                "name": "Final_Pokemon_Normal.png",
+                                "hash": "fb1450a28de7cbb0c72e118cfe809161",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-04-01T11:51:58",
+                                "name": "Cloyster_Outline__scanline.obj",
+                                "hash": "492510b9211f84cabb02464658275569",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-03-25T04:12:36",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cloyster_Outline__scanline",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "60",
+                        "originalId": "18446744073709551615",
+                        "publicId": "972",
+                        "source": "\/Users\/ejwessel\/Desktop\/Cloyster_Outline__scanline.obj",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Cloyster_Outline_Outline",
+                                    "v": "1617303569878682:38980"
+                                },
+                                {
+                                    "k": "Cloyster_Outline_Pokemon",
+                                    "v": "1617303569804085:38961"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Cloyster_Outline_009",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "25",
+                                        "dependency": "1",
+                                        "uid": "1617303569325225:38765",
+                                        "fileId": "35",
+                                        "originalId": "36",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-mONFRj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Cloyster_Outline_002",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "26",
+                                        "dependency": "1",
+                                        "uid": "1617303569374008:38787",
+                                        "fileId": "37",
+                                        "originalId": "38",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-mONFRj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Cloyster_Outline_003",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "27",
+                                        "dependency": "1",
+                                        "uid": "1617303569434254:38805",
+                                        "fileId": "39",
+                                        "originalId": "40",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-mONFRj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Cloyster_Outline_004",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "28",
+                                        "dependency": "1",
+                                        "uid": "1617303569485382:38827",
+                                        "fileId": "41",
+                                        "originalId": "42",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-mONFRj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Cloyster_Outline_010",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "29",
+                                        "dependency": "1",
+                                        "uid": "1617303569526546:38845",
+                                        "fileId": "43",
+                                        "originalId": "44",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-mONFRj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Cloyster_Outline_001",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "30",
+                                        "dependency": "1",
+                                        "uid": "1617303569590906:38867",
+                                        "fileId": "45",
+                                        "originalId": "46",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-mONFRj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Cloyster_Outline_007",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "31",
+                                        "dependency": "1",
+                                        "uid": "1617303569645891:38889",
+                                        "fileId": "47",
+                                        "originalId": "48",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-mONFRj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Cloyster_Outline_008",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "32",
+                                        "dependency": "1",
+                                        "uid": "1617303569687004:38907",
+                                        "fileId": "49",
+                                        "originalId": "50",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-mONFRj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Cloyster_Outline_005",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "33",
+                                        "dependency": "1",
+                                        "uid": "1617303569726063:38925",
+                                        "fileId": "51",
+                                        "originalId": "52",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-mONFRj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Cloyster_Outline_006",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "34",
+                                        "dependency": "1",
+                                        "uid": "1617303569776403:38947",
+                                        "fileId": "53",
+                                        "originalId": "54",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-mONFRj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "973",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Cloyster_Outline_Pokemon",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "35",
+                                        "dependency": "0",
+                                        "uid": "1617303569804085:38961",
+                                        "fileId": "55",
+                                        "originalId": "56",
+                                        "publicId": "974",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Cloyster_Outline_Outline",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "36",
+                                        "dependency": "0",
+                                        "uid": "1617303569878682:38980",
+                                        "fileId": "57",
+                                        "originalId": "58",
+                                        "publicId": "975",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cloyster_Outline__scanline",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "37",
+                                "dependency": "1",
+                                "uid": "1617303570016011:39153",
+                                "fileId": "59",
+                                "originalId": "61",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "976",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "39",
+                                "dependency": "0",
+                                "uid": "1617304248485592:128359",
+                                "fileId": "64",
+                                "originalId": "65",
+                                "publicId": "977",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-mONFRj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "40",
+                                "dependency": "0",
+                                "uid": "1617304248517454:128375",
+                                "fileId": "66",
+                                "originalId": "67",
+                                "publicId": "978",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-mONFRj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Skin",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "38",
+                        "dependency": "0",
+                        "uid": "1617304248414039:128313",
+                        "fileId": "62",
+                        "originalId": "63",
+                        "publicId": "979",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Final_Pokemon_Ambient_Occlusion",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "41",
+                        "dependency": "0",
+                        "uid": "1617304272291618:131507",
+                        "fileId": "68",
+                        "originalId": "69",
+                        "publicId": "980",
+                        "source": "\/Users\/ejwessel\/Desktop\/Textures_Cloyster_Pokemon\/Final_Pokemon_Ambient_Occlusion.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Final_Pokemon_Diffuse",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "42",
+                        "dependency": "0",
+                        "uid": "1617304276513909:131984",
+                        "fileId": "71",
+                        "originalId": "72",
+                        "publicId": "981",
+                        "source": "\/Users\/ejwessel\/Desktop\/Textures_Cloyster_Pokemon\/Final_Pokemon_Diffuse.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Final_Pokemon_Emissive",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "43",
+                        "dependency": "0",
+                        "uid": "1617304283346057:133013",
+                        "fileId": "74",
+                        "originalId": "75",
+                        "publicId": "982",
+                        "source": "\/Users\/ejwessel\/Desktop\/Textures_Cloyster_Pokemon\/Final_Pokemon_Emissive.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Final_Pokemon_Glossiness",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "44",
+                        "dependency": "0",
+                        "uid": "1617304288296751:133835",
+                        "fileId": "77",
+                        "originalId": "78",
+                        "publicId": "983",
+                        "source": "\/Users\/ejwessel\/Desktop\/Textures_Cloyster_Pokemon\/Final_Pokemon_Glossiness.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Final_Pokemon_Normal",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "45",
+                        "dependency": "0",
+                        "uid": "1617304294375368:134818",
+                        "fileId": "80",
+                        "originalId": "81",
+                        "publicId": "984",
+                        "source": "\/Users\/ejwessel\/Desktop\/Textures_Cloyster_Pokemon\/Final_Pokemon_Normal.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Final_Pokemon_Specular",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "46",
+                        "dependency": "0",
+                        "uid": "1617304304810162:136326",
+                        "fileId": "83",
+                        "originalId": "84",
+                        "publicId": "985",
+                        "source": "\/Users\/ejwessel\/Desktop\/Textures_Cloyster_Pokemon\/Final_Pokemon_Specular.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1617303298738975:3944"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1617303570480155:39323",
+                        "v": {
+                            "prefab": "1617303570016011:39153",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1617303569953831:39003",
+                                    "v": "1617303570480155:39323"
+                                },
+                                {
+                                    "k": "1617303569964404:39005",
+                                    "v": "1617303570481173:39349"
+                                },
+                                {
+                                    "k": "1617303569965073:39007",
+                                    "v": "1617303570481761:39351"
+                                },
+                                {
+                                    "k": "1617303569966759:39019",
+                                    "v": "1617303570483683:39366"
+                                },
+                                {
+                                    "k": "1617303569967785:39023",
+                                    "v": "1617303570491507:39440"
+                                },
+                                {
+                                    "k": "1617303569971223:39037",
+                                    "v": "1617303570493558:39455"
+                                },
+                                {
+                                    "k": "1617303569972353:39039",
+                                    "v": "1617303570494093:39457"
+                                },
+                                {
+                                    "k": "1617303569974989:39051",
+                                    "v": "1617303570499806:39476"
+                                },
+                                {
+                                    "k": "1617303569975812:39053",
+                                    "v": "1617303570500665:39478"
+                                },
+                                {
+                                    "k": "1617303569977159:39065",
+                                    "v": "1617303570505407:39493"
+                                },
+                                {
+                                    "k": "1617303569977832:39067",
+                                    "v": "1617303570506321:39495"
+                                },
+                                {
+                                    "k": "1617303569979840:39079",
+                                    "v": "1617303570508779:39510"
+                                },
+                                {
+                                    "k": "1617303569980422:39081",
+                                    "v": "1617303570509686:39512"
+                                },
+                                {
+                                    "k": "1617303569982664:39093",
+                                    "v": "1617303570512842:39527"
+                                },
+                                {
+                                    "k": "1617303569984657:39095",
+                                    "v": "1617303570515527:39529"
+                                },
+                                {
+                                    "k": "1617303569987375:39107",
+                                    "v": "1617303570519894:39544"
+                                },
+                                {
+                                    "k": "1617303569988900:39109",
+                                    "v": "1617303570521753:39546"
+                                },
+                                {
+                                    "k": "1617303569990809:39121",
+                                    "v": "1617303570526616:39561"
+                                },
+                                {
+                                    "k": "1617303569991313:39123",
+                                    "v": "1617303570528016:39565"
+                                },
+                                {
+                                    "k": "1617303569992278:39135",
+                                    "v": "1617303570532501:39582"
+                                },
+                                {
+                                    "k": "1617303569992671:39137",
+                                    "v": "1617303570533800:39584"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1617303570016011:39153",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1617303569953831:39003"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_001"
+                            ],
+                            "v": "1617303569979840:39079"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617303569980422:39081"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_002"
+                            ],
+                            "v": "1617303569966759:39019"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617303569967785:39023"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_003"
+                            ],
+                            "v": "1617303569971223:39037"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_003",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617303569972353:39039"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_004"
+                            ],
+                            "v": "1617303569974989:39051"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_004",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617303569975812:39053"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_005"
+                            ],
+                            "v": "1617303569990809:39121"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_005",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617303569991313:39123"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_006"
+                            ],
+                            "v": "1617303569992278:39135"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_006",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617303569992671:39137"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_007"
+                            ],
+                            "v": "1617303569982664:39093"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_007",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617303569984657:39095"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_008"
+                            ],
+                            "v": "1617303569987375:39107"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_008",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617303569988900:39109"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_009"
+                            ],
+                            "v": "1617303569964404:39005"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_009",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617303569965073:39007"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_010"
+                            ],
+                            "v": "1617303569977159:39065"
+                        },
+                        {
+                            "k": [
+                                "Cloyster_Outline_010",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1617303569977832:39067"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1617304272291618:131507",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1727573",
+                            "compressedSize": "775503",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "70",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "b8a606ed8186bcbfe02d93b719fabb29",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "86"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1617304276513909:131984",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2871615",
+                            "compressedSize": "906712",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "73",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "633b510442e4cf280f490959368c172d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "87"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1617304283346057:133013",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2108809",
+                            "compressedSize": "529753",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "76",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "28fc13013fa7a7ef25e138d89f9c5e4d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "88"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1617304288296751:133835",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1385255",
+                            "compressedSize": "594157",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "79",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "1754e6e8c435c3ede2c0c217af2d0293",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "89"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1617304294375368:134818",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1280870",
+                            "compressedSize": "370583",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "82",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "bfe2bcffcc6ce46d04b23bd2783617ec",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "90"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1617304304810162:136326",
+                    "v": {
+                        "infos": {
+                            "originalSize": "3299422",
+                            "compressedSize": "1047767",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "85",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "1d25cdb24631bc4498faad760794c871",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "91"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    }
+}
